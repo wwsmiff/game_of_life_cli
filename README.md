@@ -1,4 +1,4 @@
-# Game of life for the CLI
+# Game of life for the terminal
 Game of life written in C just for fun.
 
 # Requirements
